@@ -1,4 +1,4 @@
-# Python-Class Projects
+# Sonar-Device Project 
 
-Python project and assignments from Introduction to Python (taken Fall 2018)
+A fun, simple game featuring sonar devices
 
