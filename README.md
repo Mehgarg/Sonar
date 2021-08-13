@@ -1,3 +1,4 @@
-# Sonar 
+# Python-Class Projects
 
-A fun simple game featuring sonar devices. 
+Python project and assignments from Introduction to Python (taken Fall 2018)
+
